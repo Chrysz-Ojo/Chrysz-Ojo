@@ -2,8 +2,6 @@
 <h2 align="center">A passionate backend developer from Nigeria</h2>
 
 
-
-
 <img align= "right" alt= "Coding" width= "500" src="https://as1.ftcdn.net/v2/jpg/02/49/95/92/1000_F_249959284_m3jl0iEr9gpdMeNjiRvFb7PFN9KrQGN3.jpg">
 
 
