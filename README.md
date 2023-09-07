@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OLUWABUKUNMI OJO</h1>
+<h1 align="center">Hi 👋, I am OLUWABUKUNMI   OJO</h1>
 <h2 align="center">A passionate backend developer from Nigeria</h2>
 
 
