@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrysz-ojo&label=Profile%20views&color=0e75b6&style=flat" alt="chrysz-ojo" /> </p>
 
-- 🌱 I’m currently learning **Spring boot and react**
+- 🌱 I’m have learnt **Spring boot and react**
 
 - 💬 Ask me about **Spring boot and react**
 
